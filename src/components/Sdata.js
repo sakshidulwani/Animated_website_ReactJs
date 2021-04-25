@@ -14,10 +14,7 @@ const Sdata = [
         imgsrc: app,
         title: "App development"
     },
-     {
-        imgsrc: android,
-        title: "Android development"
-    },
+     
      {
         imgsrc: software,
         title: "Software development"
@@ -28,7 +25,11 @@ const Sdata = [
     },
      {
         imgsrc: marketing,
-        title: "Marketing development"
+        title: "Marketing "
+    },
+     {
+        imgsrc: android,
+        title: "Android development"
     },
 ]
 
