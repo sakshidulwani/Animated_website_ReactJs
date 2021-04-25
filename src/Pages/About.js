@@ -1,10 +1,12 @@
 import React from 'react';
-
+import Common from '../components/Common';
+import web from '../images/img2.png'
 
 function About() {
   return (
     <div >
-     <h1>Hello World</h1>
+     <Common name="Welcome to About Page" imgsrc={web} visit="/contact" 
+     btname="Contact Now"/>
     </div>
   );
 }
