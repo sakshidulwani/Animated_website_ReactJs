@@ -7,7 +7,8 @@ import Common from '../components/Common';
 function Home() {
   return (
     < >
-   <Common name="Grow your business with" imgsrc={web} visit="/service" 
+   <Common name="Grow your business with " 
+   imgsrc={web} visit="/service" 
      btname="Get Started"/>
     </>
   );
