@@ -20,6 +20,7 @@ function App() {
      <Route  exact path="/service" component={Service} />
      <Route  exact path="/contact" component={Contact} />
      <Redirect to="/"/>
+     
      </Switch>
      <Footer/>
     </>
